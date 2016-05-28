@@ -1,6 +1,6 @@
 # Popular Movies App
 
-[![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/popular-movies-app/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/venky-bommireddy/PopularMovies1/master/LICENSE.txt)
 
 This is the second project in Udacity's Android Developer Nanodegree. The purpose of this project was to built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
 
@@ -12,18 +12,9 @@ This is the second project in Udacity's Android Developer Nanodegree. The purpos
 
 App uses The Movie Database API. You have to enter your API key in order to run the app. You can create your own one very easy! https://www.themoviedb.org/account/signup?language=en-EN. When you get it, just set it here:  "popular-movies-app/gradle.properties"
 
-### Project review
-"In my perspective, you have done a perfect job implementing popular movie stage 1 and the format of your codes is extremely standard and your codes are easy to be understood. Great job for your popular movie stage 1! Hope to see your stage 2 codes soon! :)" - Udacity Code Reviewer.
-
-##### Popular Movies App Stage 1: Graded as "Met Specifications".
-https://review.udacity.com/#!/reviews/123985/shared
-
-##### Popular Movies App Stage 2: Graded as "Exceeds Specifications".
-https://review.udacity.com/#!/reviews/126047/shared
-
 ## License
 
-Copyright 2016 Dmitry Malkovich
+Copyright 2016 Venky Bommireddy
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
