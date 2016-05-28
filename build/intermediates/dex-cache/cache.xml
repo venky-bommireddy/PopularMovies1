@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac4635a251af1f3577d071b56551f3cf59cf823b">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3f8df8f1919a3ae6ece9f311788fbcecd217a6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_8d2b6b238401ef6354bc4356886e3dd1dce255cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_3aadcbb0007e2225c2163f4588d0943559156d57/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_bce187d12104560cd6430c97d94f0cce445ccf1b/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ef10d9f999123bd5ac4ff855e7f00a175fd1d55a">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e545cc765040602a61df4acd1039187ae739a24c/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_7a02c53918dca70ffcfa3dfdfed15b69456736df/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0984bb89e5175193e03df1ba74dcb8c0343d48a6/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_1e796ec94ccbf653e14a755196f9966e32557cd1/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_d68d2a917478ddfe3cb91f46b7c352a56f47d0b4/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_ae8e584dfde9eab52c499e7aa029d405a71efd71/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.0_6b52792d7bcf5bba6dfa513e282eb91eb9be1886/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_70acd50e1d26e3347d5130aa8eec8a9836399944/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_6b801fca5a5bdce14cd84b5d6523b06df29b5eda/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_8166ab34e3e24264c8ce6ffab27985b086c1d840/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_40cf146da3d93cef2bc74c67f9e6b04f779911c7/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_ebf4b673b03f80fcf44ddafe63df8d9a7c709dee/classes.dex" />
+    </item>
+    <item
+        jar="/home/venky/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/venky/Desktop/popular-movies-app-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_28e604ccf4c05cd753e31841a30dd0a845d95fa3/classes.dex" />
+    </item>
+
+</items>
